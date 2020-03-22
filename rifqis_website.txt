@@ -1,0 +1,4 @@
+rifqis_website
+- membuat website untuk perusahaan
+- membuat website mengelola data permasalahan antar divisi di perusahaan
+- mempublish secara lokal
