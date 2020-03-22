@@ -1,5 +1,6 @@
 rencana-realtime
 - membuat website yang realtime
   + database mengupdate otomatis
+    - menggunakan websockets
 - membuat notifikasi realtime
   + menambah icon notifikasi
